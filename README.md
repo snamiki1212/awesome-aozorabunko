@@ -10,13 +10,18 @@
 
 - [GitHub - aozorahack/specs: 青空文庫の仕様書](https://github.com/aozorahack/specs)
 
-## Viewer App
+## Viewer
+
+- [一行文庫](https://onelinebook.com/)
+- [青空文庫を LINE の会話風に読める！ 捗るサービス「文豪メッセンジャー」 ｜ ガジェット通信 GetNews](https://getnews.jp/archives/659080)
 
 ## Service
 
-- [青空文庫を LINE の会話風に読める！ 捗るサービス「文豪メッセンジャー」 ｜ ガジェット通信 GetNews](https://getnews.jp/archives/659080)
+- [Aozorasearch 青空文庫全文検索](https://myokoym.net/aozorasearch/) / [青空文庫を NDC 等で絞り込みつつ全文検索できる Web サイト「Aozorasearch」の紹介 - Qiita](https://qiita.com/myokoym/items/a97f6901d4fa12bb8cb9)
 
 ## API
+
+## Tool
 
 ## LICENSE
 
