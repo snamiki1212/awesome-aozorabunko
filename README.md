@@ -1,6 +1,6 @@
 # awesome-aozorabunko
 
-- [Slack](https://aozorahack.slack.com) - [Join aozorahack on Slack!](https://aozoraslackin.herokuapp.com)
+- [公式 Slack](https://aozorahack.slack.com) | [Join aozorahack on Slack!](https://aozoraslackin.herokuapp.com)
 - [公式リポジトリ - aozorahack](https://github.com/aozorahack)
 - [公式 HP - 青空文庫 AozoraBunko](https://www.aozora.gr.jp/index.html)
 
