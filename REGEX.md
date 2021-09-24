@@ -40,4 +40,10 @@
 
 ## XHTML
 
-TODO:
+> ruby / rb / rp / rt
+
+`</?ruby>|</?rb>|<rp>[^<]+</rp>|<rt>[^<]+</rt>`
+
+### REF
+
+- [第 5 回　 Calibre で青空文庫を入手＆変換する：オープンソースの電子書籍管理ソフト「Calibre」を使いこなそう！｜ gihyo.jp … 技術評論社](https://gihyo.jp/lifestyle/serial/01/calibre/0005)
