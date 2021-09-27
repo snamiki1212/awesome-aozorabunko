@@ -8,6 +8,7 @@
 
 - [aozorahack/aozorabunko_text](https://github.com/aozorahack/aozorabunko_text) - GitHub: テキスト形式のすべての青空文庫が保存されているリポジトリ。
 - [aozorahack/specs](https://github.com/aozorahack/specs) - GitHub: 青空文庫の仕様書
+- [公開中　作家リスト：全て](https://www.aozora.gr.jp/index_pages/person_all.html) - 作品や著者のメタデータ CSV を zip で DL できる。
 
 ## Viewer
 
@@ -26,6 +27,8 @@
 - [文豪メッセンジャー](https://msgr-novel.herokuapp.com/readme) - Line 風のビュワー
 
 ## API
+
+- [GitHub - aozorahack/pubserver2: Pubserver](https://github.com/aozorahack/pubserver2) - 青空文庫の作品情報の API サーバ。JavaScript(ES2017) / Koa.js / MongoDB / Redis
 
 ## Tool
 
